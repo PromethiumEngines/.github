@@ -1,4 +1,4 @@
-![Promethium Engines Logo in Large](/assets/pe-large.png)
+![Promethium Engines Thumbnail](/assets/pe-large.png)
 
 <h1></h1>
 
