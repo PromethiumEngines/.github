@@ -15,6 +15,7 @@ Engines made by us:
 | :---------------------------------------------------------------------------: | :----------------------------------------------: | :----: | :----: |
 | [Yu-Gi-Oh! Engine](https://github.com/PromethiumEngines/yugioh-battle-engine) | An engine to simulate a card duel of "Yu-Gi-Oh!" |   🚧   |   ❌   |
 |       [Catan Engine](https://github.com/PromethiumEngines/catan-engine)       |  An engine made to simulate a game of "Catan".   |   🚧   |   ❌   |
+|   [TicTacToe Engine](https://github.com/PromethiumEngines/tictactoe-engine)   |   An engine to simulate a game of "TicTacToe"    |   🚧   |   ❌   |
 
 ✅: Finished<br/>
 🚧: Work in Progress<br/>
