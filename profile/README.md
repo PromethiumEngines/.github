@@ -2,14 +2,14 @@
 
 <h1></h1>
 
-<h2 align="center">Organization dedicated to build "engines" to simulate a certain games</h2>
+<h2 align="center">Organization dedicated to build "engines" to simulate certain games</h2>
 
-<h2>Why?</h2>
-<h3>Short story, I was bored and decided to make something to simulate a game of my favorite <i>board</i> games and then he created "engines" to simulate various famous <i>board</i> games.</h3>
+Why?
+Short story, I was bored and decided to make something to simulate a game of my favorite <i>board</i> games and then he created "engines" to simulate various famous <i>board</i> games.
 
 <br/>
 
-<h2>Engines made by us:</h2>
+Engines made by us:
 
 |                                    Engine                                     |                   Description                    | Status | NodeJS |
 | :---------------------------------------------------------------------------: | :----------------------------------------------: | :----: | :----: |
